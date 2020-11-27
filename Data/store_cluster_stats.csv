@@ -1,0 +1,11 @@
+store_cluster,discount_rate,discount_freq,total_sales,product_types,weekend_freq,size,,Comment
+,Mean,,,,,,,
+1,18.02%,34.90%,597318,9141,40.52%,11,,"Highest discount, large sales, high variety, more weekend visits"
+2,15.72%,30.96%,114515,5539,30.06%,240,,Average stores
+3,14.42%,29.41%,42569,2822,25.20%,61,,"Lowest discount, small sales, low variety, less weekend visits"
+4,16.01%,31.09%,234504,7143,31.95%,109,,"Medium discount, medium sales, high variety (major difference from cluster 2), medium weekend visits"
+,StDev,,,,,,,
+,2.19%,3.62%,103920,324,26.21%,,,
+,1.90%,3.16%,29614,646,18.44%,,,
+,4.21%,8.02%,28808,1266,15.47%,,,
+,1.48%,2.78%,57653,610,20.45%,,,

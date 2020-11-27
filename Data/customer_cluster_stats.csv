@@ -1,0 +1,9 @@
+customer_cluster,discount_freq,product_types,discount_rate,total_spending,total_freq,weekend,size,,Comment
+,Mean,,,,,,,,
+1,23.20%,892,10.98%,8011,49.19%,31.08%,2504,,Loyal customers
+2,42.40%,1050,21.70%,7605,43.92%,31.29%,1901,,Cherry-pickers
+3,31.87%,1016,16.40%,7888,46.10%,31.94%,3445,,Average customers
+,StDev,,,,,,,,
+,3.42%,239,2.17%,1948,15.13%,12.90%,,,
+,5.25%,259,2.75%,1907,11.42%,14.07%,,,
+,3.28%,244,1.85%,1970,12.78%,13.50%,,,
