@@ -1,6 +1,7 @@
 library(data.table)
 setwd('D:/Emory/Marketing/Segmentation/Pernalonga')
 
+
 transac = fread("transaction_table.csv",header=TRUE)
 prod = fread("product_table.csv",header=TRUE)
 
