@@ -16,9 +16,6 @@ discount_rate, discount_freq, total_Sales, product_types, weekend_freq, cluster_
 Stores_clusters = stores[ , .(Discount_Rate = mean(discount_rate), Total_sales = mean(revenue), 
                Product_types = mean(product_types), Weekend_freq = mean(weekend_freq), cluster_size =.N) ,by=centroids]
 
-
-
-
 #Statistics for customers segmentation clusters
 
 library(readr)
