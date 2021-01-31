@@ -1,6 +1,7 @@
 #Statistics for stores segmentation clusters
 library(data.table)
 library(readr)
+
 stores <- read_csv("C:/Users/banva/Desktop/stores_data_centroid.csv")
 View(stores)
 
